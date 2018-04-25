@@ -13,4 +13,5 @@ struct LoginResponse: Decodable {
     let code: Int
     let message: String
     //test 1
+    //test2
 }
